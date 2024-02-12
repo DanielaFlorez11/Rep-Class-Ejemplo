@@ -5,3 +5,4 @@ Pasos para hacer un commit
 2. 'Git add .'
 3. 'Git status'
 4. 'Git commit -m "Nombre commit"
+5. 'Git push'
