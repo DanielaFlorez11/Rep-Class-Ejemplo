@@ -1,0 +1,7 @@
+
+Pasos para hacer un commit
+
+1. 'Git status'
+2. 'Git add .'
+3. 'Git status'
+4. 'Git commit -m "Nombre commit"
